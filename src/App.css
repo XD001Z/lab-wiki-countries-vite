@@ -2,3 +2,15 @@
   margin: 0 auto;
   text-align: center;
 }
+
+.country-card {
+  width: 30%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.country-card-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
